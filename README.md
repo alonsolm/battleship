@@ -1,5 +1,7 @@
-# battleship
-
+# battleship demo
+```
+https://battleship-842ac.web.app/
+```
 ## Project setup
 ```
 npm install
